@@ -4,10 +4,10 @@
 window.FORWARD_CFG = {
   NAME: "FORWARD",
   TICKER: "FORWARD",
-  CA: "",
+  CA: "CPS9vfxYmNHPiqQLtgDcuqH4zbxg3WC94imqN7z9pump",
   CHAIN: "solana",
   PAD: "pump.fun",
-  X: "",
+  X: "https://x.com/useforwards",
   BUY: "",   // defaults to https://pump.fun/coin/<CA>
   CHART: "", // defaults to https://gmgn.ai/sol/token/<CA>
 
